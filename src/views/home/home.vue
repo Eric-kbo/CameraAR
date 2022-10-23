@@ -12,7 +12,7 @@
             >
             </v-img>
           </v-item>
-          <div>地区 {{ i + 1 }} 号</div>
+          <div>家具 {{ i + 1 }} </div>
         </v-col>
       </v-row>
     </v-item-group>

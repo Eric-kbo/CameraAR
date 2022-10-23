@@ -12,12 +12,8 @@ export default {
       data: 123,
     };
   },
-  created() {},
-    // setup() {
-    //     data = "*****"
-    //     return{
-    //         data
-    //     }
-    // },
+  created() {
+    
+  },
 }
 </script>
